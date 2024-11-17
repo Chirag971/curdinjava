@@ -1,5 +1,5 @@
 This Repo...  is Java EE web application used .
-which technology of this project..
+which technology  use of this project..
 1. java EE
 2. jsf
 3. jpa
