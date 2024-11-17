@@ -1,0 +1,8 @@
+entity\Catagorymaster.class
+bean\productManageBean.class
+ejb\productBeanLocal.class
+entity\Productmaster.class
+client\productClient.class
+com\mycompany\product\JakartaRestConfiguration.class
+ejb\productBean.class
+com\mycompany\product\resources\JakartaEE8Resource.class
